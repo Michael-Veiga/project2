@@ -1,4 +1,4 @@
-# project name
+# Food Guru
 
 below is a list of node packages used on this project
 ![dependency](https://img.shields.io/badge/dependency-version-purple)![dependency](https://img.shields.io/badge/bcryptjs-2.4.3-blue)![dependency](https://img.shields.io/badge/dotenv-8.2.0-blue)![dependency](https://img.shields.io/badge/express-4.17.1-blue)![dependency](https://img.shields.io/badge/expresssession-1.17.1-blue)![dependency](https://img.shields.io/badge/mysql2-2.1.0-blue)![dependency](https://img.shields.io/badge/nodemon-2.0.2-blue)![dependency](https://img.shields.io/badge/passport-0.4.1-blue)![dependency](https://img.shields.io/badge/passportlocal-1.0.0-blue)![dependency](https://img.shields.io/badge/sequelize-5.21.3-blue)
